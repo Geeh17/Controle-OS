@@ -1,11 +1,7 @@
 
 ## Sistema de Gerenciamento de OS.
 
-
-
-
 ## Funcionalidades
-
 
 **.** Cadatrar cliente
 
@@ -25,11 +21,6 @@
 **Banco de Dados:** Prisma, MongoDB
 
 **Teste:** Jest_js
-
-
-
-
-
 
 ## Documentação
 
