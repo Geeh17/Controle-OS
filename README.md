@@ -3,7 +3,7 @@
 
 ## Funcionalidades
 
-**.** Cadatrar cliente
+**.** Cadastrar cliente
 
 **.** Excluir cliente
 
